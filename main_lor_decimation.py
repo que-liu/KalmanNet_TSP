@@ -38,7 +38,7 @@ args.N_T = 10
 args.T = 3000
 args.T_test = 3000
 ### training parameters
-args.use_cuda = True # use GPU or not
+args.use_cuda = False # use GPU or not
 args.n_steps = 2000
 args.n_batch = 8
 args.lr = 1e-4

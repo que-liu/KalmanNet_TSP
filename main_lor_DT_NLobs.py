@@ -39,7 +39,7 @@ args.in_mult_KNet = 40
 args.out_mult_KNet = 5
 
 ### training parameters
-args.use_cuda = True # use GPU or not
+args.use_cuda = False # use GPU or not
 args.n_steps = 2000
 args.n_batch = 100
 args.lr = 1e-4
